@@ -55,13 +55,15 @@ for (int i=patlama.size()-1;i>=0;i--){
 
 
 
-
+ //saveFrame("/frame/####.tif");
 
 
 }
   
 
-
+void mouseClick(){
+  exit();
+}
 
 
 

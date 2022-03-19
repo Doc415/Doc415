@@ -1,7 +1,7 @@
   class Patlama{
     PVector loc;
     int isik;
-    int dotscount=100;
+    int dotscount=180;
     ArrayList <Dots> dots=new ArrayList <Dots>();
     boolean patladi;
     
